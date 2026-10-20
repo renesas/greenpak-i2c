@@ -1,0 +1,10 @@
+collapse/module.driver.comms_i2c_on_comms_i2c_bus.1658026464=false
+collapse/module.driver.comms_i2c_on_comms_i2c_device.1479506194=false
+collapse/module.driver.comms_i2c_on_comms_i2c_device.192669665=false
+collapse/module.driver.i2c_on_iic_b_master.1039162606=false
+collapse/module.driver.i2c_on_sci_i2c.611153184=false
+collapse/module.driver.rm_comms_on_uart.978176210=false
+collapse/module.driver.uart_on_sci_uart.109299074=false
+collapse/module.driver.uart_on_sci_uart.1621923105=false
+collapse/module.driver.uart_on_sci_uart.1737491846=false
+eclipse.preferences.version=1

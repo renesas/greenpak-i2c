@@ -1,0 +1,9 @@
+*/.settings/
+
+*/*.log
+*/Debug
+*/Release
+
+*/ra_gen
+*/ra
+*/ra_cfg
