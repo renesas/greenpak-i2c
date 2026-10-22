@@ -1,4 +1,4 @@
-# Button Management
+# GreenPAK Integration - I2C
 
 This is a software module to help users communicate with GreenPAK devices over I2C. This README covers development steps. For documentation related to the module itself, see [GREENPAK_I2C.md](./docs/GREENPAK_I2C.md).
 
